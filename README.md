@@ -1,6 +1,6 @@
 # Community
 
-Code for the tutorial to set up an application with [GraphQL](https://graphql.org/) & [Elixir](https://elixir-lang.org/). :droplet:
+Code for the tutorial to set up an application with [GraphQL](https://graphql.org/) & [Elixir](https://elixir-lang.org/) :droplet:
 
 ## Technologies
 
@@ -16,7 +16,7 @@ To start your Phoenix server:
   * Create and migrate your database with `mix ecto.create && mix ecto.migrate`
   * Start Phoenix endpoint with `mix phx.server`
 
-Go to [http://localhost:4000/graphiql/](localhost:4000/graphiql) to test the API and start making GraphQL requests.
+Go to http://localhost:4000/graphiql/ to test the API and start making GraphQL requests.
 
 Ready to run in production? Please [check our deployment guides](http://www.phoenixframework.org/docs/deployment).
 
