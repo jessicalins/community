@@ -1,16 +1,26 @@
 # Community
 
+Code for the tutorial to set up an application with [GraphQL](https://graphql.org/) & [Elixir](https://elixir-lang.org/). :droplet:
+
+## Technologies
+
+* [Elixir](https://elixir-lang.org/) - the programming language
+* [Phoenix](http://www.phoenixframework.org/) - Web framework in Elixir
+* [Absinthe](http://absinthe-graphql.org/) - GraphQL implementation for Elixir that will handle running GraphQL queries submitted via Phoenix.
+
+## Running
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
   * Create and migrate your database with `mix ecto.create && mix ecto.migrate`
   * Start Phoenix endpoint with `mix phx.server`
 
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
+Go to [http://localhost:4000/graphiql/](localhost:4000/graphiql) to test the API and start making GraphQL requests.
 
 Ready to run in production? Please [check our deployment guides](http://www.phoenixframework.org/docs/deployment).
 
-## Learn more
+## Phoenix docs
 
   * Official website: http://www.phoenixframework.org/
   * Guides: http://phoenixframework.org/docs/overview
