@@ -1,4 +1,4 @@
-defmodule NewsResolver do
+defmodule CommunityWeb.NewsResolver do
     alias Community.News
 
     def all_links(_root, _args, _info) do
