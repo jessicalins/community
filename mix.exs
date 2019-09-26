@@ -35,6 +35,7 @@ defmodule Community.Mixfile do
     [
       {:absinthe_ecto, "~> 0.1.3"},
       {:absinthe_plug, "~> 1.4"},
+      {:jason, "~> 1.1"},
       {:phoenix, "~> 1.3.4"},
       {:phoenix_pubsub, "~> 1.0"},
       {:phoenix_ecto, "~> 3.2"},
